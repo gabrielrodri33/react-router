@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 -Criar pasta "routes" e dentro dela pastas como -> EditarProduto, Error, Home, Produtos. Dentro das mesmas um arquivo chamado "index.jsx"
 
 -Importar elementos do router e as páginas no main.jsx, utilizar o métido "createBrowserRouter"
+
+-Criar a pasta components e um arquivo chamado menu.jsx
+
+-Criar arquivo "Rodapé.jsx" e estiliza-lo no "App.css"
